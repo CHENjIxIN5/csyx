@@ -5,5 +5,6 @@ public class ceshi {
 		System.out.println("ceshi");
 		System.out.println("yeshiceshi");
 		System.out.println("woshibeiyaoqingzhe");
+		System.out.println("woxiangkankanzhezhongqingkuang");
 	}
 }
